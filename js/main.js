@@ -82,7 +82,7 @@ $(document).ready(function () {
 
   $(function () {
     typed.typed({
-      strings: [" am Srividya ", " have 2.5 years of experience in IT ", " am a fullstack developer ", " work on React and Java", " love to create websites ", " am a technology enthusiast ", " would love to connect with you ", " "],
+      strings: [" am Srividya ", " have 3+ years of experience as a software engineer ", " am a fullstack developer ", " work on React and Java", " love to create websites ", " am a technology enthusiast ", " would love to connect with you ", " "],
       typeSpeed: 30,
       loop: true
     });
